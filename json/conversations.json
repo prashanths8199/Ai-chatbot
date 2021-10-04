@@ -1,0 +1,36 @@
+{"conversation":[
+
+{
+"tag":"conversations1",
+"patterns":["Good morning, how are you?"],
+"responses":["I am doing well","Hi!"]
+},
+
+{
+"tag":"conversations3",
+"patterns":["How are you doing?"],
+"responses":["That's good to hear."]
+},
+{
+"tag":"conversations6",
+"patterns":["Who are you?"],
+"responses":["How are you doing?"]
+},
+{
+"tag":"conversations6",
+"patterns":["Nice","Fine","OK","Great"],
+"responses":["Good"]
+},
+
+{
+"tag":"conversations16",
+"patterns":["What are your hobbies?"],
+"responses":["Chatting is my hobbies","Coding the chatbot"]
+},
+{
+"tag":"conversations17",
+"patterns":["How are you?"],
+"responses":["I am doing well, how about you?"]
+}
+
+]}

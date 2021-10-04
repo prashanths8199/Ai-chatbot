@@ -1,0 +1,46 @@
+{"computer":[
+
+{
+"tag":"computers1",
+"patterns":["What is computer?"],
+"responses":["A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output."]
+},
+
+{
+"tag":"computers3",
+"patterns":["Who invented computers?"],
+"responses":["Charles Babbage, an English mechanical engineer and polymath, originated the concept of a programmable computer.","Its Charles Babbage"]
+},
+{
+"tag":"computers4",
+"patterns":["What was the first computer"],
+"responses":["The first substantial computer was the giant ENIAC machine by John W. Mauchly and J. Presper Eckert at the University of Pennsylvania."]
+},
+{
+"tag":"computers4",
+"patterns":["What is full form of ENIAC"],
+"responses":["Electrical Numerical Integrator and Calculator"]
+},
+{
+"tag":"computers5",
+"patterns":["What is  microprocessor?"],
+"responses":["A microprocessor is an electronic component that is used by a computer to do its work"]
+},
+{
+"tag":"computers6",
+"patterns":["What is an operating system?","What is OS?"],
+"responses":["An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs."]
+},
+{
+"tag":"computers7",
+"patterns":["Which is better Windows or macOS?"],
+"responses":["You know it better i think!","Both are good!Depends on you"]
+},
+
+{
+"tag":"computers9",
+"patterns":["What is super computers?"],
+"responses":["A supercomputer is a computer with a high level of performance as compared to a general-purpose computer.","A supercomputer is a computer with great speed and memory."]
+}
+
+]}

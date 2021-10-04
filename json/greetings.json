@@ -1,0 +1,38 @@
+{"greeting":[
+
+{
+"tag":"greetings1",
+"patterns":["Hello","Hi","Greetings"],
+"responses":["Hello","Hi","Greetings!"]
+},
+
+{
+"tag":"greetings6",
+"patterns":["Hi, How is it going?"],
+"responses":["Fine","Great"]
+},
+
+{
+"tag":"greetings11",
+"patterns":["How are you doing?"],
+"responses":["Good.","Very well, thanks."]
+},
+
+{
+"tag":"greetings14",
+"patterns":["Nice to meet you."],
+"responses":["Thank you."]
+},
+{
+"tag":"greetings17",
+"patterns":["Hi, nice to meet you.","It is a pleasure to meet you."],
+"responses":["Thank you. You too.","It is a pleasure to meet you."]
+},
+
+{
+"tag":"greetings21",
+"patterns":["What's up?"],
+"responses":["Not much.","Nothing much."]
+}
+
+]}

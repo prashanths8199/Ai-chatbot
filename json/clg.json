@@ -1,0 +1,62 @@
+{"college":[
+  
+{
+"tag":"clg1",
+"patterns":["how many departments are there in the college, departments in this college"],
+"responses":["Computer Science and Engineering\n Electronics and Communication Engineering\n Mechanical Engineering\n Civil Engineering\n Information Science and Engineering\n "]
+},
+
+{
+"tag":"clg2",
+"patterns":["who is HOD of the CSE department","CSE HOD"],
+"responses":["Dr. Manjunath Kotari","Hod of the Cse is Dr. Manjunath Kotari"]
+},
+{
+"tag":"clg3",
+"patterns":["who is HOD of the ISE department","ISE HOD"],
+"responses":["Jayanth Rathod","Hod of the Ise is Jayanth Rathod"]
+},
+{
+"tag":"clg4",
+"patterns":["who is HOD of the ECE department","ECE HOD"],
+"responses":[" Dr. D V Manjunatha","Hod of the Ise is Dr. D V Manjunatha"]
+},
+
+{
+"tag":"clg5",
+"patterns":["who is HOD of the civil department ","civil HOD"],
+"responses":[" Dr.Ajith Hebbar","Hod of the Ise is Dr.Ajith Hebbar"]
+},
+{
+"tag":"clg6",
+"patterns":["who is HOD of the Mechanical department","Mechanical HOD"],
+"responses":[" Dr.Sathyanarayana","Hod of the Ise is  Dr.Sathyanarayana"]
+},
+{
+"tag":"clg7",
+"patterns":["facilities provide by the college","college facilities"],
+"responses":["High-speed WIFI, Library, well infrastructured hostels, research labs, playgrounds"]
+},
+{
+"tag":"clg21",
+"patterns":["How mamy companies visited the campus for placement in the year 2017","Number of companies visited in 2017"],
+"responses":["85 companies visited the campus for placement in the year 2017.","85 companies visited."]
+},
+{
+"tag":"clg22",
+"patterns":["How many students placed in the year 2017"],
+"responses":["263 students have placed in the year 2017.","Number of students placed in the year 2017 are 263."]
+},
+
+{
+"tag":"clg23",
+"patterns":["How mamy companies visited the campus for placement in the year 2018","Number of companies visited in 2018"],
+"responses":["110 companies visited the campus for placement in the year 2018.","110 companies visited."]
+},
+
+{
+"tag":"clg24",
+"patterns":["How many students placed in the year 2018"],
+"responses":["341 students have placed in the year 2018.","Number of students placed in the year 2018 are 341."]
+}
+]}
